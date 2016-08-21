@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    
     width: 545px;
     height: 118px;
     position: relative;
@@ -30,8 +29,7 @@ li a {
 li a:hover {
     background-color: #111111;
 }
-h1 {
-    display: inline;
+.avsm {
     text-align: center;
 }
 .navbar {
@@ -45,16 +43,24 @@ h1 {
 }
 .a {
     color: #ff6600;
-    width: auto;
+    
 }
 .m {
     color: #ff0000;
-    width: auto;
+    
 }
 .vs {
     color: grey;
-    width: auto;
+    
 }
-span {
-    width: auto;
+section {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 545px;
+    height: 118px;
+    position: relative;
+    text-align: center;
+    
 }
